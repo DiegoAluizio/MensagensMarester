@@ -14,7 +14,7 @@ def obter_saudacao():
         return "Boa noite"
 
 # lista de seguradoras e tipos de seguro
-SEGURADORAS = ["Porto", "Tokio", "Suhai", "Yellum", "Aliro", "Allianz", "Azul", "Pier", "Zurich"]
+SEGURADORAS = ["Porto", "Tokio", "Suhai", "Yellum", "Aliro", "Allianz", "Azul", "Pier", "Zurich", "Bradesco", "BP", "Mitsui", "HDI"]
 TIPOS_SEGURO = ["Auto", "Residencial", "Empresarial", "Vida", "Vida em Grupo", "Equipamento", "Celular"]
 
 st.set_page_config(page_title="Gerador de Mensagens - Financeiro", layout="centered")
